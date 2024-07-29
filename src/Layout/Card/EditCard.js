@@ -77,7 +77,6 @@ function EditCard() {
             value={formData.front}
             className="form-control"
             rows="2"
-            // placeholder={card.front}
             onChange={handleChange}
           />
           <br />
@@ -90,7 +89,6 @@ function EditCard() {
             value={formData.back}
             className="form-control"
             rows="2"
-            // placeholder={card.back}
             onChange={handleChange}
           />
         </div>
