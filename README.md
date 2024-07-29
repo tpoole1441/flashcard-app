@@ -4,7 +4,7 @@ This app is meant to help studying by letting the user enter virtual flashcards 
 
 ---
 
-![Screenshot](/Assessments/Project_Flashcards_Qualified_Node_18_1/src/Screenshot.png)
+![Screenshot](src/Screenshot.png)
 
 ## Technology
 
