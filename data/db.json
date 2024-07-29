@@ -1,9 +1,9 @@
 {
   "decks": [
     {
-      "name": "Rendering in ReSmack",
-      "description": "This is a test This is a test This is a test This is a test This is a test This is a test This is a test This is a test Tis is a test This is a test This is a test This is a test This is a test This is a t",
-      "id": 1
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
     },
     {
       "name": "React Router",
@@ -13,15 +13,21 @@
   ],
   "cards": [
     {
-      "front": "Differentiate between Real DOM and Virtual DOM. Test",
-      "back": "Virtual DOM updates are faster but do not directly update the HTML",
       "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
       "deckId": 1
     },
     {
-      "front": "3543435156156136153",
-      "back": "1536145416516156145432",
       "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
       "deckId": 1
     },
     {
@@ -35,18 +41,6 @@
       "back": "Renders the first matching child <Route> ",
       "deckId": 2,
       "id": 5
-    },
-    {
-      "front": "adfadsfadsfasdfadsfd",
-      "back": " adfsf adsfdsf asdf ds dff asfads fads fadsf",
-      "id": 6,
-      "deckId": 1
-    },
-    {
-      "front": "I love my wife",
-      "back": "She is the best",
-      "deckId": 1,
-      "id": 7
     }
   ]
 }
