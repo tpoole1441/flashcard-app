@@ -2,7 +2,7 @@
 
 This app is meant to help studying by letting the user enter virtual flashcards into decks. Once they have enough flashcards, they can test their knowledge by flipping from front to back of each flashcard in the chosen deck.
 
----
+## Screenshot:
 
 ![Screenshot](src/Screenshot.png)
 
