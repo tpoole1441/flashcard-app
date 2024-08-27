@@ -8,7 +8,6 @@ function Layout() {
     <>
       <Header />
       <div className="container">
-        {/* TODO: Implement the screen starting here */}
         <RootRoutes />
       </div>
     </>
